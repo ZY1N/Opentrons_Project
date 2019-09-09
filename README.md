@@ -13,7 +13,7 @@ A python program to perform yeast petri dish distribution to PCR trays on the Op
 
 ### Click for full timelaspe ###
 
-![Untitled2vid](https://user-images.githubusercontent.com/27908897/64572816-c12d6200-d31d-11e9-935a-60886b40b23a.gif)(://thumbs.gfycat.com/OldfashionedShimmeringGrassspider-size_restricted.gif)
+![Untitled2vid](https://user-images.githubusercontent.com/27908897/64572816-c12d6200-d31d-11e9-935a-60886b40b23a.gif)(www.thumbs.gfycat.com/OldfashionedShimmeringGrassspider-size_restricted.gif)
 
 
 ## Click on Photo Below to Watch ##
