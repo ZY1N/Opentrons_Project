@@ -11,13 +11,9 @@ A python program to perform yeast petri dish distribution to PCR trays on the Op
 ### Objective: ###
   The objective of this code is in order to collect samples from petri dishes and distribute them into PCR Trays. A pipette picks up a tip -> goes to the water trough -> picks up 100ul water -> picks up sample from petri dish -> puts it into PCR slot. See the video below for recorded demonstration. Also check out the beta app, which incorporates machine vision to detect places to take samples.
 
-<img src="https://thumbs.gfycat.com/OldfashionedShimmeringGrassspider-size_restricted.gif"/><p> <a href="https://thumbs.gfycat.com/OldfashionedShimmeringGrassspider-size_restricted.gif">via Gfycat</a></p>
+### Click for full timelaspe ###
 
-![abcdef](https://thumbs.gfycat.com/OldfashionedShimmeringGrassspider-size_restricted.gif)
-
-<div style='position:relative; padding-bottom:calc(55.26% + 44px)'><iframe src='https://gfycat.com/ifr/OldfashionedShimmeringGrassspider' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/oldfashionedshimmeringgrassspider">via Gfycat</a></p>
-
-https://thumbs.gfycat.com/OldfashionedShimmeringGrassspider-size_restricted.gif
+![Untitled2vid](https://user-images.githubusercontent.com/27908897/64572816-c12d6200-d31d-11e9-935a-60886b40b23a.gif)(://thumbs.gfycat.com/OldfashionedShimmeringGrassspider-size_restricted.gif)
 
 
 ## Click on Photo Below to Watch ##
