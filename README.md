@@ -5,11 +5,12 @@ A python program to perform yeast petri dish distribution to PCR trays on the Op
 *Objective[includes video]  
 *Setup  
 *How to Run  
-*3d Part Holder  
+*3d Part Holder
+*App Beta
 
 ### Objective: ###
-  The objective of this code is in order to collect samples from petri dishes and distribute them into PCR Trays. A pipette picks up a tip -> goes to the water trough -> picks up 100ul water -> picks up sample from petri dish -> puts it into PCR slot. See the video below for recorded demonstration:
-## Click to Watch ##
+  The objective of this code is in order to collect samples from petri dishes and distribute them into PCR Trays. A pipette picks up a tip -> goes to the water trough -> picks up 100ul water -> picks up sample from petri dish -> puts it into PCR slot. See the video below for recorded demonstration. Also check out the beta app, which incorporates machine vision to detect places to take samples.
+## Click on Photo Below to Watch ##
 [![20190907_131408 (1)](https://user-images.githubusercontent.com/27908897/64563908-4a846a80-d305-11e9-9f67-f9f902610eaa.jpg)](https://youtu.be/Hqnowgf_G3g)
 
   
@@ -39,4 +40,7 @@ These are the holders that are used to hold the petridish and water troughs in p
 [<img width="516" alt="Screen Shot 2019-09-09 at 1 10 45 PM" src="https://user-images.githubusercontent.com/27908897/64563082-47887a80-d303-11e9-96c6-edce79956d9a.png">](https://cad.onshape.com/documents/25268cf03f4ebe23574cd863/w/20aaa79a2de8add8f43b47bd/e/ee051cdfb7139ba67216771b)
 
 [<img width="264" alt="Screen Shot 2019-09-09 at 1 12 31 PM" src="https://user-images.githubusercontent.com/27908897/64563246-bd8ce180-d303-11e9-9eb9-08c73d0c46ec.png">](https://cad.onshape.com/documents/a18ea2d271567771182e8ddd/w/b9d126b66894c90f384734b7/e/85092496d4540e73111520d5)
+
+### App-Beta ###
+
 
