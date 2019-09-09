@@ -2,9 +2,9 @@
 A python program to perform yeast petri dish distribution to PCR trays on the Opentrons-OT-One Robot
 
 ## Table of Contents ##
-Objective[includes video] . 
-Setup . 
-How to Run . 
+Objective[includes video]  
+Setup  
+How to Run  
 3d Part Holder  
 
 ### Objective: ###
