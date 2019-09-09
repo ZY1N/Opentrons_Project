@@ -25,3 +25,10 @@ First of all you need to setup the machine format as so below. Petri Dishes on B
 In order to run this program please attatch it to an Opentrons-Ot-One machine. Enter the command 'python3 protocol.py' in order to run the protocol.
 
 <img width="226" alt="Screen Shot 2019-09-09 at 12 41 51 PM" src="https://user-images.githubusercontent.com/27908897/64561303-3fc6d700-d2ff-11e9-8b35-e4d969857f82.png">
+
+### 3D Parts: ###
+
+These are the holders that are used to hold the petridish and water troughs in place, as seen in the video. They are modular in design and interchangable. The first picture is of the main petridish holder. Two braces are held apart by a round holder for the petri dish. The second picture and third picture are attachments that you can screw into the 2 main braces in order to convert them into water holders.
+
+<img width="516" alt="Screen Shot 2019-09-09 at 1 10 45 PM" src="https://user-images.githubusercontent.com/27908897/64563082-47887a80-d303-11e9-96c6-edce79956d9a.png">
+<img width="629" alt="Screen Shot 2019-09-09 at 1 10 25 PM" src="https://user-images.githubusercontent.com/27908897/64563084-47887a80-d303-11e9-801f-5c55d83e86a8.png">
