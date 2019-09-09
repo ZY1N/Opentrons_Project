@@ -1,10 +1,10 @@
 # Opentrons_Project
 A python program to perform yeast petri dish distribution to PCR trays on the Opentrons-OT-One Robot
 
-Markup: #Objective:#
+#Objective:#
   The objective of this code is in order to collect samples from petri dishes and distribute them into PCR Trays. A pipette picks up a tip -> goes to the water trough -> picks up 100ul water -> picks up sample from petri dish -> puts it into PCR slot. See the video below for recorded demonstration:
   
-Makeup: #Setup:#
+#Setup:#
 
 First of all you need to setup the machine format as so below. Petri Dishes on B2, C2, and D2. Water containers on B3, C3, and D3. PCR-96 trays on B1, C1, and D1. Pipette tips should be on A3, and a trash container on A1.
 
