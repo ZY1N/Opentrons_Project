@@ -6,7 +6,8 @@ A python program to perform yeast petri dish distribution to PCR trays on the Op
 *Setup  
 *How to Run  
 *3d Part Holder  
-
+[![20190907_131408](https://user-images.githubusercontent.com/27908897/64561522-d09db280-d2ff-11e9-9702-919270efb9c7.jpg)
+<img width="177" alt="Screen Shot 2019-09-09 at 12 47 06 PM" src="https://user-images.githubusercontent.com/27908897/64561578-f3c86200-d2ff-11e9-9005-d91bda645826.png">](google.com)
 [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 ### Objective: ###
