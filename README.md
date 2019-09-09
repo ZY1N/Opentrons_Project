@@ -9,7 +9,7 @@ A python program to perform yeast petri dish distribution to PCR trays on the Op
 First of all you need to setup the machine format as so below. Petri Dishes on B2, C2, and D2. Water containers on B3, C3, and D3. PCR-96 trays on B1, C1, and D1. Pipette tips should be on A3, and a trash container on A1.
 
 ### | A3 | B3 | C3 | D3 | E3 |  ###
-#### | A2 | B2 | C2 | D2 | E2 | ###
+### | A2 | B2 | C2 | D2 | E2 | ###
 ### | A1 | B1 | C1 | D1 | E1 | ###
 
 
