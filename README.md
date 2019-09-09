@@ -46,12 +46,18 @@ The purpose of this app is to provide an wrapper to better help visualize the pr
 
 <img width="895" alt="Screen Shot 2019-09-09 at 1 32 21 PM" src="https://user-images.githubusercontent.com/27908897/64564411-53297080-d306-11e9-9d63-19715c906184.png">
 
+NOTE THIS IS NOT CALIBRATED AND MAY NOT WORK AS INTENDED
+
 Init does the following:  
   - connects to the robot  
   - homes the robot  
   - takes pictures of the 3 petri dishes  
+
 Start runs the number of plates you pick from the dropdown  
+
 Beta Test MV takes the photos the petridishes and deterentiates them by threshold  
+
 Run Beta Tests works by find the average pixel value of the squares and makes the pipette go to the location to pick up a sample there  
-NOTE THIS IS NOT CALIBRATED AND MAY NOT WORK AS INTENDED
+
+
 
