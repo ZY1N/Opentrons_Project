@@ -42,5 +42,16 @@ These are the holders that are used to hold the petridish and water troughs in p
 [<img width="264" alt="Screen Shot 2019-09-09 at 1 12 31 PM" src="https://user-images.githubusercontent.com/27908897/64563246-bd8ce180-d303-11e9-9eb9-08c73d0c46ec.png">](https://cad.onshape.com/documents/a18ea2d271567771182e8ddd/w/b9d126b66894c90f384734b7/e/85092496d4540e73111520d5)
 
 ### App-Beta ###
+The purpose of this app is to provide an wrapper to better help visualize the process. Note: this is optimized for Mac and might not work on Raspberry Pi.
 
+<img width="895" alt="Screen Shot 2019-09-09 at 1 32 21 PM" src="https://user-images.githubusercontent.com/27908897/64564411-53297080-d306-11e9-9d63-19715c906184.png">
+
+Init does the following:  
+  - connects to the robot  
+  - homes the robot  
+  - takes pictures of the 3 petri dishes  
+Start runs the number of plates you pick from the dropdown  
+Beta Test MV takes the photos the petridishes and deterentiates them by threshold  
+Run Beta Tests works by find the average pixel value of the squares and makes the pipette go to the location to pick up a sample there  
+NOTE THIS IS NOT CALIBRATED AND MAY NOT WORK AS INTENDED
 
