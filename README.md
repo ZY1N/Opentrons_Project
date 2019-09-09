@@ -10,6 +10,9 @@ A python program to perform yeast petri dish distribution to PCR trays on the Op
 
 ### Objective: ###
   The objective of this code is in order to collect samples from petri dishes and distribute them into PCR Trays. A pipette picks up a tip -> goes to the water trough -> picks up 100ul water -> picks up sample from petri dish -> puts it into PCR slot. See the video below for recorded demonstration. Also check out the beta app, which incorporates machine vision to detect places to take samples.
+
+<iframe src='https://gfycat.com/ifr/OldfashionedShimmeringGrassspider' frameborder='0' scrolling='no' allowfullscreen width='640' height='398'></iframe><p> <a href="https://gfycat.com/oldfashionedshimmeringgrassspider">via Gfycat</a></p>
+
 ## Click on Photo Below to Watch ##
 [![20190907_131408 (1)](https://user-images.githubusercontent.com/27908897/64563908-4a846a80-d305-11e9-9f67-f9f902610eaa.jpg)](https://youtu.be/Hqnowgf_G3g)
 
