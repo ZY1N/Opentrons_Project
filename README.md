@@ -30,5 +30,9 @@ In order to run this program please attatch it to an Opentrons-Ot-One machine. E
 
 These are the holders that are used to hold the petridish and water troughs in place, as seen in the video. They are modular in design and interchangable. The first picture is of the main petridish holder. Two braces are held apart by a round holder for the petri dish. The second picture and third picture are attachments that you can screw into the 2 main braces in order to convert them into water holders.
 
-<img width="516" alt="Screen Shot 2019-09-09 at 1 10 45 PM" src="https://user-images.githubusercontent.com/27908897/64563082-47887a80-d303-11e9-96c6-edce79956d9a.png">
 <img width="629" alt="Screen Shot 2019-09-09 at 1 10 25 PM" src="https://user-images.githubusercontent.com/27908897/64563084-47887a80-d303-11e9-801f-5c55d83e86a8.png">
+
+<img width="516" alt="Screen Shot 2019-09-09 at 1 10 45 PM" src="https://user-images.githubusercontent.com/27908897/64563082-47887a80-d303-11e9-96c6-edce79956d9a.png">
+
+<img width="264" alt="Screen Shot 2019-09-09 at 1 12 31 PM" src="https://user-images.githubusercontent.com/27908897/64563246-bd8ce180-d303-11e9-9eb9-08c73d0c46ec.png">
+
